@@ -1,2 +1,5 @@
 # Tone_example
-Using Tone JS to create music
+
+simple set up!
+
+all you have to do is git clone, then open up the HTML file on to a browser. I have only tested it on Chrome. 
