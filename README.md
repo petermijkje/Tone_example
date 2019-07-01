@@ -3,3 +3,4 @@
 simple set up!
 
 all you have to do is git clone, then open up the HTML file on to a browser. I have only tested it on Chrome. 
+To hear the notes, click on the speaker.
